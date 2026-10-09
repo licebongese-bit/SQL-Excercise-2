@@ -1,1 +1,1 @@
-# SQL-Excercise-2
+# SQL Aggregate Functions & Operators
