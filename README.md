@@ -1,2 +1,2 @@
-# SQL Aggregate Functions & Operators
-In this module of my Data Analytics journey, I’m moving past basic row retrieval to focus on summarization, data integrity, and complex business logic. My goal is to write queries that produce clean, accurate summary metrics across raw datasets.
+# SQL Aggregate Functions & Operators Practice
+I created this repository as a hands-on exercise to practice and sharpen my SQL data aggregation skills using functions like SUM, AVG, COUNT, MIN, and MAX, alongside grouping and filtering clauses like GROUP BY and HAVING.
